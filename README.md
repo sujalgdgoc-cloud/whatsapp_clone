@@ -19,7 +19,7 @@ A clean, modern **WhatsApp-inspired UI clone** built using **Flutter**, replicat
 - Status tiles with circular progress border  
 - Group/community icons with background color  
 - WhatsApp-colored buttons and gradients  
-- Dark & Light mode support (optional)
+
 
 ### ⚙️ **Clean Architecture**
 - Modular folder structure  
@@ -57,5 +57,6 @@ A clean, modern **WhatsApp-inspired UI clone** built using **Flutter**, replicat
   <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115724.png?raw=true" width="300" />
 
 </div>
+
 
 
