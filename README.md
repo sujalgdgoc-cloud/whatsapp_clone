@@ -42,12 +42,20 @@ A clean, modern **WhatsApp-inspired UI clone** built using **Flutter**, replicat
 
 ## 📷 Screenshots / Demo  
 
-<h2 align="center">📸 Screenshots</h2>
-<div>
-![Screenshot 1](https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115627.png)
-![Screenshot 2](https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115639.png)
-![Screenshot 3](https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115654.png)
-![Screenshot 4](https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115709.png)
-![Screenshot 5](https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115724.png)
+## 📸 Screenshots
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+  <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115627.png?raw=true" width="300" />
+
+  <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115639.png?raw=true" width="300" />
+
+  <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115654.png?raw=true" width="300" />
+
+  <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115709.png?raw=true" width="300" />
+
+  <img src="https://github.com/sujalgdgoc-cloud/whatsapp_clone/blob/d1b8bed9816b3945e86a4841056fbc0f8bf845ba/lib/screenshots/Screenshot%202025-11-16%20115724.png?raw=true" width="300" />
+
 </div>
+
 
